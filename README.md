@@ -1,3 +1,3 @@
 # Demo16
 This is my first GIT
-This is the owner PANKEET
+This is the Author PANKEET
