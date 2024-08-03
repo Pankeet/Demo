@@ -1,6 +1,4 @@
-Sure, here is the study in markdown format:
 
-```markdown
 # Classpath in Java
 
 **Classpath** is an essential concept in Java, defining the location of user-defined classes and packages. It is a parameter in the Java Virtual Machine (JVM) and the Java compiler that specifies the directory or the JAR (Java ARchive) files containing compiled Java classes.
