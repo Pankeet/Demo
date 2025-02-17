@@ -1,4 +1,4 @@
-// CodeForces Problem A (Round 1005
+// CodeForces Problem A (Round 1005)
 #include<iostream>
 using namespace std;
 
